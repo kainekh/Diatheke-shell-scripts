@@ -1,0 +1,3 @@
+#!/bin/sh
+
+diatheke -b Jub -f plain -k $1 $2 | less

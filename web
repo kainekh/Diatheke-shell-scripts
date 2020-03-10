@@ -1,0 +1,3 @@
+#!/bin/sh
+
+diatheke -b engWEB2015eb -f plain -k $1 $2 | less
